@@ -18,7 +18,8 @@ function App() {
         >
           Learn React.
         </a>
-        <h1> Learn React with Github Actions.</h1>
+         <h2> Hello From Hamza. </h2>
+        <h3> Learn React with Github Actions.</h3>
       </header>
     </div>
   );
